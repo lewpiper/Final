@@ -1,0 +1,21 @@
+Item Number     Item Description        Quantity Sold
+-----------     ----------------        -------------
+   ABC1234        ITEM_ABC_1234                   12
+   ABC1235        ITEM_ABC_1235                   10
+   ABC1236        ITEM_ABC_1236                   15
+   ABC1237        ITEM_ABC_1237                   13
+   ABC1238        ITEM_ABC_1238                    0
+
+
+
+Item Number     Item Description        Quantity Sold           Unit Price          Total Sales
+-----------     ----------------        -------------           ----------          -----------
+   ABC1234        ITEM_ABC_1234                   12                10.00               120.00
+   ABC1235        ITEM_ABC_1235                   10                12.50               125.00
+   ABC1236        ITEM_ABC_1236                   15                13.00               195.00
+   ABC1237        ITEM_ABC_1237                   13                 9.50               123.50
+   ABC1238        ITEM_ABC_1238                    0                11.75                 0.00
+
+
+
+Total Sales:     563.50
